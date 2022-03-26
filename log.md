@@ -13,3 +13,11 @@ Created my own Github pages (just skeleton) : "username-github.io"
 ### Day 3: 23/03/2022
 
 Section 1 of freecodecamp "Basic Javascript" Exercises 26-30
+
+### Day 4: 24/03/2022
+
+Section 1 of freecodecamp
+
+### Day 5: 25/03/2022
+
+Section 1 of freecodecamp
